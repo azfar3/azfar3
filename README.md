@@ -1,20 +1,17 @@
-# Hi there, I'm Azfar! 👋
+## 🚀 Current Project: 30 Days of AI & Data Science
 
-## 🚀 About Me
-- 🔭 I’m currently working on 30DaysOfAIDS
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on AI-Data Science Projects
-- 💬 Ask me about AI Engineer & Data Scientist
-- 📫 How to reach me: azfarmurtaza5@gmail.com
+I'm currently on a 30-day challenge to master both AI Engineering and Data Science through hands-on projects:
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Week 1 Complete**: Data Science fundamentals, ML models, production APIs
+**Week 2**: Deep Learning with PyTorch
+**Week 3**: LLMs and fine-tuning  
+**Week 4**: MLOps and deployment
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azfar3&show_icons=true&theme=radical)
+Follow my journey: [github.com/azfar3/30DaysOfAIDS](https://github.com/azfar3/30DaysOfAIDS)
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-murtaza/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azfarmurtaza5@gmail.com)
+## 📊 Week 1 Projects
+- ✅ Data Wrangling Pipeline
+- ✅ Production FastAPI Service
+- ✅ Advanced SQL Analysis
+- ✅ ML Classification Models
+- ✅ Interactive Web Interface
